@@ -1,5 +1,5 @@
 1234578910
 Good bye!!!
 a new line
-the new line from user2
+the line from user2
 another line from user2
