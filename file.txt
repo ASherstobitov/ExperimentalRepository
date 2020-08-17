@@ -3,3 +3,4 @@ Good bye!!!
 a new line
 the line from user2
 another line from user2
+line from user1 lesson about rebase
